@@ -10,5 +10,3 @@ I am a Toronto-based creative professional with a unique blend of artistic visio
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

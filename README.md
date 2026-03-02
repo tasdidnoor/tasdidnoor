@@ -3,7 +3,7 @@
 </div>
 
 ## About Me:
-I am a Toronto-based creative professional with a unique blend of artistic vision and technical expertise. My journey spans across multiple disciplines, from performing on stage to engineering innovative solutions.<br>I believe in the powerful intersection where art meets algorithm, and performance meets precision. My work is driven by curiosity and a desire to push boundaries across traditional creative fields.<br>As an Electrical Engineering student at York University, I combine academic rigor with practical application, creating projects that solve real-world problems while maintaining artistic integrity.
+I am a Toronto-based creative professional with a unique blend of artistic vision and technical expertise. My journey spans across multiple disciplines, from performing on stage to engineering innovative solutions.<br>I believe in the powerful intersection where art meets algorithm, and performance meets precision. My work is driven by curiosity and a desire to push boundaries across traditional creative fields.<br>As a Computer Engineering student, I combine academic rigor with practical application, creating projects that solve real-world problems while maintaining artistic integrity.
 
 <h3 align="center">
 <a href="https://tasdidnoor.com">Visit my personal homepage
